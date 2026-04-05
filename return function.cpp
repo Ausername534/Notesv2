@@ -1,10 +1,10 @@
-/* Assignment: Return Value Function
+/** Assignment: Return Value Function
 Write a return function called averageFourTemperatures that accepts 4 integers in the parameter list, returns the average.
 
 In the main function prompt the user for 4 temperatures and them in separate appropriately named variables.
 
 Call the averageFourTemperatures, passing values and printing the returned average to the console. 
-*/
+**/
 
 #include <iostream>
 #include <vector>
